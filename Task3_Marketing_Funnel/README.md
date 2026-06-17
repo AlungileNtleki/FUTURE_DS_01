@@ -45,12 +45,13 @@ Here's the live interactive Tableau dashboard:
 [Marketing Funnel & Conversion Performance Dashboard](https://public.tableau.com/app/profile/alungile.ntleki/viz/Marketing_Funnel_Analysis/Dashboard1?publish=yes)
 
 ## Files in this folder
+## Files in this folder
 - `funnel_analysis.py` — the Python script I used to clean and analyze the data
 - `funnel_summary.csv` — the cleaned dataset that feeds into the Tableau dashboard
-- `chart1_funnel.png` — funnel visualization
-- `chart2_channels.png` — conversion rate by channel
-- `chart3_devices.png` — visits by device type
-- `chart4_revenue.png` — revenue by channel
+- `Chart1_Funnel.png` — funnel visualization
+- `Chart2_Funnel.png` — conversion rate by channel
+- `Chart3_Funnel.png` — visits by device type
+- `Chart4_Funnel.png` — revenue by channel
 
 ## About
 This was completed as part of the Future Interns Data Science & Analytics internship.
